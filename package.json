@@ -42,7 +42,6 @@
 },
 "scripts": {
         "build": "next build && prisma generate",
-        // ...
     }
 
     
